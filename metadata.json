@@ -1,0 +1,5 @@
+{
+  "name": "TrainerPRO AI",
+  "description": "A comprehensive dashboard for personal trainers to manage clients, workouts, and exercises, enhanced with Gemini AI for intelligent workout generation.",
+  "requestFramePermissions": []
+}
